@@ -18,7 +18,7 @@
 ### - **Real-time Messaging:** Instant messaging functionality for live conversations.
 ### - **User Authentication:** Secure login and registration functionalities for users.
 ### - **Responsive Design:** Optimized for various screen sizes and devices.
-### - **Additional Features:** Include any extra features such as file sharing,
+### - **Additional Features:** Includes extra features such as Images sharing.
 
 ## Technologies
 
